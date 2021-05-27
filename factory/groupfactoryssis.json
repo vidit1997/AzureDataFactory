@@ -1,0 +1,9 @@
+{
+	"name": "groupfactoryssis",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a4004275-d5cf-46eb-837d-cf0ca33dae74",
+		"tenantId": "f5764222-0eef-4411-9ac5-fc4041635863"
+	}
+}
